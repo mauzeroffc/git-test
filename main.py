@@ -4,3 +4,4 @@ summa = a + b
 
 print("Hello, World!")
 print(summa)
+print(summa+1)
